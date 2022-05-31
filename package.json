@@ -1,0 +1,24 @@
+{
+  "name": "workshop-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.9",
+    "prettier": "^2.6.2",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2",
+    "utility-types": "^3.10.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jsonschema": "^1.4.1",
+    "react": "^18.1.0"
+  }
+}
